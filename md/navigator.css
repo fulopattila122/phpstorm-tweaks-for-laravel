@@ -22,3 +22,8 @@ h1 {
 a {
     color: #f4645f;
 }
+
+img {
+    border: 0!important;
+}
+
