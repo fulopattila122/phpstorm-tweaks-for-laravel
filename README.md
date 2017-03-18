@@ -51,7 +51,7 @@ img {
 6. Set **Stylesheet** to _Default JavaFX Stylesheet_
 7. Set the Laravel-like style by either
     1. Tick **Apply Custom CSS text** and copypaste the CSS above
-    2. or tick **Apply CSS from URI** and link to https://github.com/fulopattila122/phpstorm-tweaks-for-laravel/blob/master/md/navigator.css
+    2. or tick **Apply CSS from URI** and link to https://raw.githubusercontent.com/fulopattila122/phpstorm-tweaks-for-laravel/master/md/navigator.css
 
 
 
