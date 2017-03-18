@@ -50,8 +50,8 @@ img {
 5. Set **Scheme** to _Default_ (so that document bg is white)
 6. Set **Stylesheet** to _Default JavaFX Stylesheet_
 7. Set the Laravel-like style by either
-    a. Tick **Apply Custom CSS text** and copypaste the CSS above
-    b. or tick **Apply CSS from URI and link to https://github.com/fulopattila122/phpstorm-tweaks-for-laravel/blob/master/md/navigator.css
+    1. Tick **Apply Custom CSS text** and copypaste the CSS above
+    2. or tick **Apply CSS from URI and link to https://github.com/fulopattila122/phpstorm-tweaks-for-laravel/blob/master/md/navigator.css
 
 
 
