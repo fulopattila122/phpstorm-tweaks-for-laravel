@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i');
+
+body, p, ul, ol, li, table, td, th {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #222;
+}
+
+p {
+    font-size: 17px;
+}
+
+h2, h3, h4, h5 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 300;
+}
+
+a {
+    color: #f4645f;
+}
