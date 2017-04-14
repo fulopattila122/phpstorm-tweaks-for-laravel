@@ -9,7 +9,7 @@
 In case you're using the [Markdown Navigator Plugin](https://plugins.jetbrains.com/plugin/7896-markdown-navigator) (which I think you should) it has an option to customize the stylesheet. Taken the style from the Laravel Documentation site the following CSS will make your docs feel home.
 
 ```css
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,400b');
 
 body, p, ul, ol, li, table, td, th {
     font-family: "Source Sans Pro", sans-serif;
@@ -30,7 +30,7 @@ h1 {
     font-weight: 300;
 }
 
-a {
+a, a:visited {
     color: #f4645f;
 }
 
