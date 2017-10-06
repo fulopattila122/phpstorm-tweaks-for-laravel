@@ -16,8 +16,9 @@ body, p, ul, ol, li, table, td, th {
     color: #222;
 }
 
-p {
+body, p, ul, ol, li, table, td, th, pre, code {
     font-size: 17px;
+    /* use 25px on HiDPI displays */
 }
 
 h2, h3, h4, h5 {
