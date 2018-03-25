@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,400b,700');
+
+/* Hide file name on top of page (added by Md Navigator) */
+#readme > h3 {
+    display: none;
+}
+
+body {
+    width: 48.75rem;
+    max-width: 95%;
+    margin: 1em 2em;
+    background-color: white;
+    padding: 1em;
+}
+
+body, p, ul, ol, li, table, td, th {
+    font-family: "Source Sans Pro", sans-serif;
+    color: #333;
+}
+
+body, p, ul, ol, li, table, td, th, pre, code {
+    font-size: 17px;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+h2, h3 {
+    font-weight: 400;
+}
+
+h4, h5 {
+    font-weight: 700;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 2.82em;
+    margin: .67em 0;
+}
+
+h1:first-of-type {
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 1.76em;
+    margin: 15px 0;
+}
+
+h3 {
+    font-size: 1.41em;
+    margin: 45px 0 15px;
+}
+
+h4 {
+    font-size: 1.1em;
+    margin: 35px 0 10px;
+}
+
+a, a:visited {
+    color: #f4645f;
+}
+
+img {
+    border: 0!important;
+    max-width: 100%;
+}
+
+blockquote {
+    background-color: rgba(103,58,183,.62);
+    margin: 0.5em 0 1em;
+    padding: 0.5em 1em;
+    border-radius: 0.18em;
+    color: #fff;
+}
+
+blockquote p, blockquote a {
+    color: #fff;
+}
+
+code, pre {
+    font-size: 14px;
+}
+
+pre {
+    margin: 1.17em 0 1.35em;
+    padding: 1.17em 0.588em;
+    background-color: rgba(238,238,238,.35);
+    box-shadow: 0 1px 1px rgba(0,0,0,.125);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border-spacing: 0;
+}
+
+table th, table td {
+    border: 1px solid #dee0df;
+    padding: 0.588em;
+}
+
+table td {
+    font-size: 0.94em;
+}
