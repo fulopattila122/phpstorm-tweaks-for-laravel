@@ -16,7 +16,7 @@ think you should) it has an option to customize the stylesheet.
 | Laravel Readable | [md/laravel-readable.css](md/laravel-readable.css) | The laravel.com/docs style with improved readability                         |
 | Vanilo           | [md/vanilo.css](md/vanilo.css)                     | vanilo.io/docs style                                                         |
 
-### Settings styles
+### Setting Styles For Markdown Documents
 
 > Install the
 > [Markdown Navigator Plugin](https://plugins.jetbrains.com/plugin/7896-markdown-navigator) if you
@@ -28,10 +28,8 @@ think you should) it has an option to customize the stylesheet.
 4. Navigate to the Stylesheet pane on the left
 5. Set **Scheme** to _Default_ (so that document bg is white)
 6. Set **Stylesheet** to _Default JavaFX Stylesheet_
-7. Set the Laravel-like style by either
-   1. Tick **Apply Custom CSS text** and copypaste the content of the above linked CSS above
-   2. or tick **Apply CSS from URI** and link to
-      https://raw.githubusercontent.com/fulopattila122/phpstorm-tweaks-for-laravel/master/md/navigator.css
+7. Tick **Apply Custom CSS text**
+8. Copy and paste the content of one of the CSS files linked above
 
 #### Laravel Markdown Style
 
